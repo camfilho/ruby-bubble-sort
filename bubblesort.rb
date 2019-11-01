@@ -1,4 +1,5 @@
 def bubble_sort(_arr)
+    return _arr unless _arr.is_a? Array
     arr = _arr.dup
     sorted = false
    until(sorted) 
