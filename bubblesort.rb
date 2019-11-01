@@ -5,7 +5,7 @@ def bubble_sort(arr2)
 
   arr = arr2.dup
   sorted = false
-  until (sorted)
+  until sorted
     sorted = true
     (0...arr.length - 1).each do |i|
       # swaping
@@ -23,7 +23,7 @@ def bubble_sort_by(arr2)
 
   arr = _arr2.dup
   sorted = false
-  until (sorted)
+  until sorted
     sorted = true
     (0...arr.length - 1).each do |i|
       result_block = yield(arr[i], arr[i + 1])
