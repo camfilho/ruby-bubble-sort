@@ -6,7 +6,7 @@
     <img src="https://github.com/mkezmkez/appleclone/raw/master/assets/microverse-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">2nd Project. Ruby Course. Advanced Building Blocks - Enumerables </h3>
+  <h3 align="center">1st Project. Ruby Course. Bubble Sort </h3>
 
   <p align="center">
 
