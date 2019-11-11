@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/mkezmkez/ruby-enumerables">
+  <a href="https://github.com/camfilho/ruby-bubble-sort/tree/bubble-branch">
     <img src="https://github.com/mkezmkez/appleclone/raw/master/assets/microverse-logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,13 +11,13 @@
   <p align="center">
 
 <br>
-  <a href="https://github.com/mkezmkez/ruby-enumerables"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/camfilho/ruby-bubble-sort/tree/bubble-branch"><strong>Explore the docs »</strong></a>
 <br>
 <br> 
   <!--  <a href="https://raw.githack.com/mkezmkez/bootstrap/boot/index.html">View Demo</a>
 <br> 
 -->
-    <a href="https://github.com/mkezmkez/ruby-enumerables/issues">Request Feature</a>
+    <a href="https://github.com/camfilho/ruby-bubble-sort/issues">Request Feature</a>
   </p>
 
 
